@@ -1,5 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable/address.xml" value="0.1203125" />
+        <entry key="app/src/main/res/drawable/border_background.xml" value="0.23125" />
+        <entry key="app/src/main/res/drawable/category_icon.xml" value="0.1203125" />
+        <entry key="app/src/main/res/drawable/circle.xml" value="0.23125" />
+        <entry key="app/src/main/res/drawable/cross.xml" value="0.23125" />
+        <entry key="app/src/main/res/drawable/feeds.xml" value="0.23125" />
+        <entry key="app/src/main/res/drawable/following_btn_background.xml" value="0.23125" />
+        <entry key="app/src/main/res/drawable/home.xml" value="0.1203125" />
+        <entry key="app/src/main/res/drawable/home_selector.xml" value="0.1203125" />
+        <entry key="app/src/main/res/drawable/logout.xml" value="0.1203125" />
+        <entry key="app/src/main/res/layout/activity_login.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.18" />
+        <entry key="app/src/main/res/layout/activity_product_detail.xml" value="0.20104166666666667" />
+        <entry key="app/src/main/res/layout/activity_sign_up.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_splash.xml" value="0.22" />
+        <entry key="app/src/main/res/layout/category_fragment.xml" value="0.21510416666666668" />
+        <entry key="app/src/main/res/layout/common_header.xml" value="0.21510416666666668" />
+        <entry key="app/src/main/res/layout/home_fragment.xml" value="0.21510416666666668" />
+        <entry key="app/src/main/res/layout/login_signup_fragment.xml" value="0.22" />
+        <entry key="app/src/main/res/layout/profile_layout.xml" value="0.21510416666666668" />
+        <entry key="app/src/main/res/menu/bottom_navigation_menu.xml" value="0.21510416666666668" />
+        <entry key="app/src/main/res/xml/network_security_config.xml" value="0.10416666666666667" />
+      </map>
+    </option>
+  </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>
