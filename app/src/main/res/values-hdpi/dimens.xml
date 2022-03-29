@@ -1,0 +1,30 @@
+<resources>
+    <dimen name="text_size_small">7sp</dimen>
+    <dimen name="text_size_medium">11sp</dimen>
+    <dimen name="text_feed_action_count">13sp</dimen>
+    <dimen name="text_size_large">15sp</dimen>
+    <dimen name="text_size_xl">18sp</dimen>
+    <dimen name="text_size_xxl">19sp</dimen>
+    <dimen name="text_size_settings_primary">16sp</dimen>
+    <dimen name="text_size_settings_secondry">15sp</dimen>
+    <dimen name="text_profile_about">12sp</dimen>
+    <dimen name="dialog_message_text_size">13sp</dimen>
+    <dimen name="message_text_size">13sp</dimen>
+    <dimen name="profile_text_size">14sp</dimen>
+    <dimen name="margin_medium">9dp</dimen>
+    <dimen name="margin_small">5dp</dimen>
+    <dimen name="img_size">51dp</dimen>
+    <dimen name="preview_thumbnail">58dp</dimen>
+    <dimen name="dialog_profile_image_size">63dp</dimen>
+    <dimen name="profile_image_large">68dp</dimen>
+    <dimen name="edit_profile_image_large">85dp</dimen>
+    <dimen name="url_icon_width">50dp</dimen>
+    <dimen name="url_icon_height">36dp</dimen>
+    <dimen name="horizontal_item_width">52dp</dimen>
+    <dimen name="horizontal_item">100dp</dimen>
+    <dimen name="comment_img_size">30dp</dimen>
+    <dimen name="notification_img_size">36dp</dimen>
+    <dimen name="notification_image_size_secondary">40dp</dimen>
+    <dimen name="chat_user_name">17sp</dimen>
+    <dimen name="viewpager_height">200dp</dimen>
+</resources>

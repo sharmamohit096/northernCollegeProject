@@ -1,0 +1,51 @@
+<resources>
+
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="fab_margin_bottom">-6dp</dimen>
+
+    <dimen name="actionbar_height">48dp</dimen>
+    <dimen name="actionbar_height_full">56dp</dimen>
+
+    <dimen name="tab_height">45dp</dimen>
+
+    <dimen name="header_height">448.0dip</dimen>
+    <dimen name="min_header_height">400.0dip</dimen>
+    <dimen name="grid_expected_size">120dp</dimen>
+    <dimen name="info_icon_margin">7dp</dimen>
+
+    <dimen name="margin_very_small">2dp</dimen>
+    <dimen name="margin_large">10dp</dimen>
+    <dimen name="margin_xl">20dp</dimen>
+    <dimen name="margin_xxl">24dp</dimen>
+    <dimen name="margin_profile">30dp</dimen>
+
+    <dimen name="padding_very_small">2dp</dimen>
+    <dimen name="padding_small">4dp</dimen>
+    <dimen name="padding_medium">8dp</dimen>
+    <dimen name="padding_large">12dp</dimen>
+    <dimen name="padding_xl">14dp</dimen>
+    <dimen name="padding_xxl">20dp</dimen>
+    <dimen name="margin_xxxl">30dp</dimen>
+
+    <dimen name="profile_image_large">78dp</dimen>
+    <dimen name="follow_button_height">31dp</dimen>
+    <dimen name="follow_button_width">126dp</dimen>
+    <dimen name="image_edit_text_width">40dp</dimen>
+    <dimen name="image_edit_text_height">20dp</dimen>
+    <dimen name="load_more_progress_size">30dp</dimen>
+    <dimen name="small_progress">35dp</dimen>
+    <dimen name="follow_button_list_width">87dp</dimen>
+    <dimen name="follow_button_list_height">30dp</dimen>
+    <dimen name="edit_profile_image_large">80dp</dimen>
+    <dimen name="profile_pic_size_small">38dp</dimen>
+    <dimen name="feed_min_height">200dp</dimen>
+    <dimen name="url_large_image">55dp</dimen>
+
+    <dimen name="small_progress_size">20dp</dimen>
+    <dimen name="comment_layout_height">400dp</dimen>
+    <dimen name="content_not_available">200dp</dimen>
+    <dimen name="profile_image_size">65dp</dimen>
+    <dimen name="cover_height">200dp</dimen>
+
+</resources>
