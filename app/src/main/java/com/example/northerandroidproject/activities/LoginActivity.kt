@@ -25,8 +25,22 @@ class LoginActivity : AppCompatActivity() {
         this.mContext = this;
         mBinding = DataBindingUtil.setContentView(this, R.layout.activity_login);
 
-        mBinding.loginButton.setOnClickListener({ startActivity(Intent(this, MainActivity::class.java)) })
-        mBinding.signUp.setOnClickListener({ startActivity(Intent(this, SignUpActivity::class.java)) })
+        mBinding.loginButton.setOnClickListener {
+            startActivity(
+                Intent(
+                    this,
+                    MainActivity::class.java
+                )
+            )
+        }
+        mBinding.signUp.setOnClickListener {
+            startActivity(
+                Intent(
+                    this,
+                    ProductDetailActivity::class.java
+                )
+            )
+        }
 
 
 //        val apiInterface = ApiInterface.create().getMovies()
