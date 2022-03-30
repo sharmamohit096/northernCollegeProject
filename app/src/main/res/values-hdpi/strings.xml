@@ -1,0 +1,82 @@
+<resources>
+    <string name="app_name">NorthernAndroidProject</string>
+    <string name="mobi_mania">Mobi Mania</string>
+    <string name="home">Home</string>
+    <string name="category">Category</string>
+    <string name="profile">Profile</string>
+    <string name="login">Login</string>
+    <string name="user_name">username</string>
+    <string name="password">Password</string>
+    <string name="forget">Forgot password?</string>
+    <string name="register">Sign Up Here</string>
+    <string name="name">Full Name</string>
+    <string name="mobile">Mobile No.</string>
+    <string name="email">Email</string>
+    <string name="update">Update Details</string>
+    <string name="create_now">Dont have a account...click here</string>
+
+
+    <string-array name="warranty_left_array">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+    </string-array>
+
+
+    <string-array name="mobile_phone_brand_names_array">
+        <item>Samsung</item>
+        <item>iPhone</item>
+        <item>Micromax</item>
+        <item>Nokia</item>
+        <item>Sony</item>
+        <item>Mi</item>
+        <item>HTC</item>
+        <item>Lenovo</item>
+        <item>Gionee</item>
+        <item>Motorola</item>
+        <item>Oppo</item>
+        <item>Vivo</item>
+        <item>Intex</item>
+        <item>Lava</item>
+        <item>LG</item>
+        <item>Asus</item>
+        <item>BlackBerry</item>
+        <item>Karbonn</item>
+        <item>LYF</item>
+        <item>Others Mobiles</item>
+    </string-array>
+    <string-array name="product_type_array">
+        <item>Mobile Phones</item>
+        <item>Tablets</item>
+        <item>Accessories</item>
+    </string-array>
+
+    <string-array name="tablets_brand_names_array">
+        <item>Samsung</item>
+        <item>iPads</item>
+        <item>Others Tablets</item>
+    </string-array>
+
+    <plurals name="post_time">
+        <item quantity="one">· %1$s</item>
+        <item quantity="other">%1$s</item>
+    </plurals>
+    <plurals name="comment_count">
+        <item quantity="one">%1$d Comment</item>
+        <item quantity="other">%1$d Comments</item>
+    </plurals>
+
+    <plurals name="error_over_count">
+        <item quantity="one">You can only select one media file</item>
+        <item quantity="many">You can only select up to %1$d media files</item>
+    </plurals>
+</resources>
